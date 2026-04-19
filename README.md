@@ -19,9 +19,6 @@ A beginner-level project to practice frontend development skills.
 ## 📌 Purpose
 This project is created for learning and practice of web development.
 
-## 📷 Preview
-(Add screenshot here if you want)
-
 ## 📫 Contact
 Email: kirtisaxena222@gmail.com
 
