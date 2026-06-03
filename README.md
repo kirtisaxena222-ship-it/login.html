@@ -1,7 +1,7 @@
 # login.html
 # 🔐 Login Page Project
 
-This is a simple login page built using HTML and CSS.
+This is a simple login page built using HTML and CSS and javascript.
 
 ## 👩‍💻 About Project
 A beginner-level project to practice frontend development skills.
