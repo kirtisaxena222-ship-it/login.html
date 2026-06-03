@@ -7,7 +7,7 @@ This is a simple login page built using HTML and CSS and javascript.
 A beginner-level project to practice frontend development skills.
 
 ## 🚀 Features
-- Clean login UI
+- Clean login UIgit 
 - Responsive centered design
 - Hover effects on button
 - Built using only HTML & CSS
